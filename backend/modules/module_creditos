@@ -1,1 +1,2 @@
-
+def asignar_creditos(usuario_id, cantidad):
+    return {"usuario_id": usuario_id, "creditos_asignados": cantidad}
