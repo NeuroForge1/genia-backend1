@@ -1,1 +1,2 @@
-
+def registrar_referido(referente_id, referido_id):
+    return {"referente_id": referente_id, "referido_id": referido_id, "estado": "activo"}
